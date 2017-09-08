@@ -1,6 +1,12 @@
 # mcm-connections-manager
 MCM is made to ease the management of connections (SSH, VNC, FTP, Telnet & RDP) to several servers either from the CLI or from the GUI. It's aimed at network or system administrators who need to connect every day to different servers by different means and have a lousy memory for passwords.
 
+## NOTE
+
+This project was started on 2009 on [Google Code](https://code.google.com/archive/p/mcm-connections-manager/) and I've decided to save move it to GitHub. It's *not being actively maintained since July 2012*. Some time on the future I might retake this, but not currently. Check the alternatives section below.
+
+I've tested this an it runs on pretty much any Ubuntu distribution.
+
 ## Supported protocols:
 
 * SSH
